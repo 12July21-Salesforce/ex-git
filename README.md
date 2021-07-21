@@ -1,3 +1,3 @@
 # ex-git
 
-a change by david bertrand
+Sam made it
