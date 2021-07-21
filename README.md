@@ -1,3 +1,3 @@
 # ex-git
 
-a change by david bertrand
+did not switch to my branch before push.  Sorry.
